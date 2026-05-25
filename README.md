@@ -51,6 +51,8 @@ Portal centralizado de bipagem que integra diretamente com o TMS da operação: 
 
 ## Screenshots
 
+![Bipagem de Franquia — Dashboard](screenshots/bipagem-franquia.jpg)
+
 ---
 
 ## Arquitetura
